@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "nodemon server",
+    "build":"npm i",
     "local-server": "nodemon localDataServer"
   },
   "keywords": [],
